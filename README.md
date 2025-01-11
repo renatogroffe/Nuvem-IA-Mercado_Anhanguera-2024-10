@@ -2,6 +2,10 @@
 
 Conteúdos da apresentação "Nuvem/Cloud Computing em 2024 - Primeiros passos, Azure, Containers, Inteligência Artificial, tecnologias, carreira..." para alunos da Faculdade Anhanguera - Campus Marte-Santana. Talk realizada em 18/10/2024 (sexta) na cidade de São Paulo-SP.
 
+Palestrante: Renato Groffe - **Microsoft MVP, Docker Captain, MTAC**
+
+Tecnologias e tópicos abordados: **Cloud Computing, DevOps, Containers, Open Source, Cloud Native, Docker, Kubernetes, Microsoft Azure, GitHub Copilot, OpenAI, Linux, Azure DevOps, GitHub**
+
 ---
 
 ## Exemplo de uso do Copilot
