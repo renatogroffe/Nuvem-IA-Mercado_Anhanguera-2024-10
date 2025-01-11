@@ -1,8 +1,10 @@
+# Nuvem-IA-Mercado_Anhanguera-2024-10
+
 Conteúdos da apresentação "Nuvem/Cloud Computing em 2024 - Primeiros passos, Azure, Containers, Inteligência Artificial, tecnologias, carreira..." para alunos da Faculdade Anhanguera - Campus Marte-Santana. Talk realizada em 18/10/2024 (sexta) na cidade de São Paulo-SP.
 
 ---
 
-# Exemplo de uso do Copilot
+## Exemplo de uso do Copilot
 
 O que perguntei:
 
