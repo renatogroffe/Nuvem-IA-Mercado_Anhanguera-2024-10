@@ -4,11 +4,25 @@ Conteúdos da apresentação "Nuvem/Cloud Computing em 2024 - Primeiros passos, 
 
 Palestrante: Renato Groffe - **Microsoft MVP, Docker Captain, MTAC**
 
+Agradecimentos ao [**Prof. Cleyton Ferreira Franco**](https://www.linkedin.com/in/cleyton-ferreira-franco/) e à [**Profa. Luciana Maximiano**](https://www.linkedin.com/in/luciana-maximiano/) pelo convite e por todo o apoio para que esta palestra acontecesse.
+
 Tecnologias e tópicos abordados: **Cloud Computing, DevOps, Containers, Open Source, Cloud Native, Docker, Kubernetes, Microsoft Azure, GitHub Copilot, OpenAI, Linux, Azure DevOps, GitHub**
 
 Número de participantes: **60 pessoas**
 
 Local: **Avenida Braz Leme, 3029 - Santana, São Paulo - SP - CEP 02022-011**
+
+---
+
+![Renato palestrando](img/a-20.jpg)
+
+![Renato palestrando](img/a-24.jpg)
+
+![Renato palestrando](img/a-21.jpg)
+
+![Renato palestrando](img/a-22.jpg)
+
+![Banner](img/a-25.jpg)
 
 ---
 
