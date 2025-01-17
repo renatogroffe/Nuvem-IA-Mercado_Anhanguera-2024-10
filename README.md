@@ -6,9 +6,9 @@ Palestrante: Renato Groffe - **Microsoft MVP, Docker Captain, MTAC**
 
 Tecnologias e tópicos abordados: **Cloud Computing, DevOps, Containers, Open Source, Cloud Native, Docker, Kubernetes, Microsoft Azure, GitHub Copilot, OpenAI, Linux, Azure DevOps, GitHub**
 
-Número de participantes: ? pessoas
+Número de participantes: **60 pessoas**
 
-Local: Avenida Braz Leme, 3029 - Santana, São Paulo - SP - CEP 02022-011
+Local: **Avenida Braz Leme, 3029 - Santana, São Paulo - SP - CEP 02022-011**
 
 ---
 
